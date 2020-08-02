@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi! / Hejsan! 👋
+
+I'm Chris. I work on Fullstack Mobile SDK Development for Moat/Oracle Data Cloud, and I'm currently working with ObjC, Swift, JavaScript, Python, Go, Java, Docker, Kubernetes, Elasticsearch, Kafka. 
 
 <!--
 **ctroein89/ctroein89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
